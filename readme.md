@@ -1,4 +1,4 @@
-# This is my Final year project 
+# This is my python project 
 <hr>
 # if you want to run this file open it in cmd and type "flask run" and enter
 
